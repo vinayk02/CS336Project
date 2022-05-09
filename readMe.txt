@@ -2,7 +2,7 @@ INSTRUCTIONS FOR REGISTERING/ LOGIN:
 
 REGISTER AND LOGIN FOR END-USER:
 Press sign in button, click on the link that says "Don't Have an account? Register"
-Then put in all the required info. Once your account is made click on sign in to login in.
+Then put in all the required info. Once your account is made click on sign into login in.
 
 ADMIN LOGIN: 
 Press sign in button, and click on link that says "Admin Login"
@@ -31,8 +31,10 @@ View SalesReport: You must be signed in as a admin. Click on the  SalesReport bu
 
 PUT IN AUCTION: You must be signed in as a end user. Click on the Sell items button. Fill out the required information and then click on the sell item button.
 
-Show Auctions: Click on the show auctions button.
+SHOW AUCTIONS: Click on the show auctions button. 
 
-Put in a bid: You must be signed in as an end user. Click on the show auctions button. Then find the auction you wan to bid on, then type in your bid price and secret price. Then click put bid button.
+SEARCH AUCTIONS: Can search auctions by category (3 given categories).
 
-View winner: Click on the show auctions button. Then find the auction you wan to view the winner of. Then click on the Winner button.
+PUT IN BID: You must be signed in as an end user. Click on the show auctions button. Then find the auction you wan to bid on, then type in your bid price and secret price. Then click put bid button.
+
+View winner: Click on the show auctions button. Then find the auction you want to view the winner of. Then click on the Winner button.
